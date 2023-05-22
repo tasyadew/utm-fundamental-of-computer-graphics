@@ -1,0 +1,18 @@
+﻿  MikeWazowski.cpp
+MikeWazowski.obj : error LNK2019: unresolved external symbol glutInit referenced in function main
+MikeWazowski.obj : error LNK2019: unresolved external symbol glutInitDisplayMode referenced in function main
+MikeWazowski.obj : error LNK2019: unresolved external symbol glutInitWindowPosition referenced in function main
+MikeWazowski.obj : error LNK2019: unresolved external symbol glutInitWindowSize referenced in function main
+MikeWazowski.obj : error LNK2019: unresolved external symbol glutMainLoop referenced in function main
+MikeWazowski.obj : error LNK2019: unresolved external symbol glutCreateWindow referenced in function main
+MikeWazowski.obj : error LNK2019: unresolved external symbol glutPostRedisplay referenced in function "void __cdecl display(void)" (?display@@YAXXZ)
+MikeWazowski.obj : error LNK2019: unresolved external symbol glutSwapBuffers referenced in function "void __cdecl display(void)" (?display@@YAXXZ)
+MikeWazowski.obj : error LNK2019: unresolved external symbol glutDisplayFunc referenced in function main
+MikeWazowski.obj : error LNK2019: unresolved external symbol glutReshapeFunc referenced in function main
+MikeWazowski.obj : error LNK2019: unresolved external symbol glutKeyboardFunc referenced in function main
+MikeWazowski.obj : error LNK2019: unresolved external symbol glutSpecialFunc referenced in function main
+MikeWazowski.obj : error LNK2019: unresolved external symbol glutSolidSphere referenced in function "void __cdecl body(void)" (?body@@YAXXZ)
+MikeWazowski.obj : error LNK2019: unresolved external symbol glutSolidCone referenced in function "void __cdecl DrawAxes(void)" (?DrawAxes@@YAXXZ)
+MikeWazowski.obj : error LNK2019: unresolved external symbol glutSolidCube referenced in function "void __cdecl left_arm(void)" (?left_arm@@YAXXZ)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\lib\x64\glut32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\Natasya\Documents\CODE\UTM\SEM4\CG\Assignment3\MikeWazowski\x64\Debug\MikeWazowski.exe : fatal error LNK1120: 15 unresolved externals

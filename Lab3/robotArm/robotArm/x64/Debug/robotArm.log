@@ -1,0 +1,5 @@
+﻿  robotArm.cpp
+C:\Users\Natasya\Documents\CODE\UTM\SEM4\CG\Lab3\robotArm\robotArm\robotArm.cpp(67,23): error C2660: 'glutWireSphere': function does not take 1 arguments
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\GL\glut.h(517,22): message : see declaration of 'glutWireSphere'
+C:\Users\Natasya\Documents\CODE\UTM\SEM4\CG\Lab3\robotArm\robotArm\robotArm.cpp(78,23): error C2660: 'glutWireSphere': function does not take 1 arguments
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\GL\glut.h(517,22): message : see declaration of 'glutWireSphere'

@@ -1,0 +1,9 @@
+﻿TestSetup.obj : error LNK2019: unresolved external symbol glutInit referenced in function main
+TestSetup.obj : error LNK2019: unresolved external symbol glutInitDisplayMode referenced in function main
+TestSetup.obj : error LNK2019: unresolved external symbol glutInitWindowPosition referenced in function main
+TestSetup.obj : error LNK2019: unresolved external symbol glutInitWindowSize referenced in function main
+TestSetup.obj : error LNK2019: unresolved external symbol glutMainLoop referenced in function main
+TestSetup.obj : error LNK2019: unresolved external symbol glutCreateWindow referenced in function main
+TestSetup.obj : error LNK2019: unresolved external symbol glutDisplayFunc referenced in function main
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\lib\x64\glut32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\Natasya\Documents\CODE\UTM\SEM4\CG\Testing\TestSetup\x64\Debug\TestSetup.exe : fatal error LNK1120: 7 unresolved externals

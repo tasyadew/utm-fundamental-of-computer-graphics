@@ -1,0 +1,6 @@
+﻿  example 1b.cpp
+C:\Users\Natasya\Documents\CODE\UTM\SEM4\CG\Assignment 1b\example 1b\example 1b\example 1b.cpp(46,12): warning C4101: 'y1': unreferenced local variable
+C:\Users\Natasya\Documents\CODE\UTM\SEM4\CG\Assignment 1b\example 1b\example 1b\example 1b.cpp(46,8): warning C4101: 'x1': unreferenced local variable
+C:\Users\Natasya\Documents\CODE\UTM\SEM4\CG\Assignment 1b\example 1b\example 1b\example 1b.cpp(60,12): warning C4101: 'y1': unreferenced local variable
+C:\Users\Natasya\Documents\CODE\UTM\SEM4\CG\Assignment 1b\example 1b\example 1b\example 1b.cpp(60,8): warning C4101: 'x1': unreferenced local variable
+  example 1b.vcxproj -> C:\Users\Natasya\Documents\CODE\UTM\SEM4\CG\Assignment 1b\example 1b\Debug\example 1b.exe

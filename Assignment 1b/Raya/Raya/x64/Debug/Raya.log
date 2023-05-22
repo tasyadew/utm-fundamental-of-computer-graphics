@@ -1,0 +1,11 @@
+﻿Raya.obj : error LNK2019: unresolved external symbol glutInit referenced in function main
+Raya.obj : error LNK2019: unresolved external symbol glutInitDisplayMode referenced in function main
+Raya.obj : error LNK2019: unresolved external symbol glutInitWindowPosition referenced in function main
+Raya.obj : error LNK2019: unresolved external symbol glutInitWindowSize referenced in function main
+Raya.obj : error LNK2019: unresolved external symbol glutMainLoop referenced in function main
+Raya.obj : error LNK2019: unresolved external symbol glutCreateWindow referenced in function main
+Raya.obj : error LNK2019: unresolved external symbol glutDisplayFunc referenced in function main
+Raya.obj : error LNK2019: unresolved external symbol glutBitmapCharacter referenced in function "void __cdecl text(float,float,void *,char *)" (?text@@YAXMMPEAXPEAD@Z)
+Raya.obj : error LNK2019: unresolved external symbol glutBitmapWidth referenced in function "void __cdecl text(float,float,void *,char *)" (?text@@YAXMMPEAXPEAD@Z)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\lib\x64\glut32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\Natasya\Documents\CODE\UTM\SEM4\CG\Assignment 1b\Raya\x64\Debug\Raya.exe : fatal error LNK1120: 9 unresolved externals
